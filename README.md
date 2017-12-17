@@ -14,7 +14,7 @@ This project contains 2 Python files:
 
 
 
-•	Production Code: data cleaning and probabilities predictions with the selected Random Forest and SVM models.
+•	Production Code: data cleaning and probabilities' predictions with the selected Random Forest and SVM models.
 
     o	Input: 
         	txt pipe delimited file. Each row of the input data constitutes information regarding a customer and his/her behavior.
