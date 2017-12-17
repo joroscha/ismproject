@@ -18,6 +18,7 @@ This project contains 2 Python files:
 
     o	Input: 
         	txt pipe delimited file. Each row of the input data constitutes information regarding a customer and his/her behavior.
+        	2 .py files, one for the Random Forest model and other for SVM
         	User input to define the threshold for probability that will be applied to define when a customer is going to upgrade
         
     o	Output:
